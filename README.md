@@ -13,7 +13,7 @@ horrible process to go through! I sent a mail to maven users list saying
 that releasing to maven central must be an easier process. I got only one
 answer, and that was from JFrog asking if I had seen bintray. I had not,
 and took a look. I became a user immediately. JFrog understood how easy
-this process really should be!! I have no idea why the shut down the
+this process really should be!! I have no idea why they shut down the
 bintray service, it was one of the best I've ever used! Maybe they did
 not get enough commercial customers.
 
