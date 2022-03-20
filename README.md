@@ -6,7 +6,23 @@ It is so far only Java, Groovy and some JS here.
 
 Some project produce binary jar files that I have decided to make available
 on my web server after bintray shut down: `https://download.natusoft.se/maven`.
-This URL can be specified as a repo in maven pom.xml. 
+This URL can be specified as a repo in maven pom.xml:
+
+    <repositories>
+        <repository>
+            <id>ns-repo</id>
+            <name>ns-artifact-repository</name>
+            <url>https://download.natusoft.se/maven</url>
+        </repository>
+    </repositories>
+
+    <pluginRepositories>
+        <pluginRepository>
+            <id>ns-plugin-repo</id>
+            <name>na-plugin-repository</name>
+            <url>https://download.natusoft.se/maven</url>
+        </pluginRepository>
+    </pluginRepositories>
 
 That leads to the question: why not maven central ? Well, I did that once and that was an absolutely
 horrible process to go through! I sent a mail to maven users list saying
