@@ -10,16 +10,16 @@ This URL can be specified as a repo in maven pom.xml:
 
     <repositories>
         <repository>
-            <id>ns-repo</id>
-            <name>ns-artifact-repository</name>
+            <id>tombensve-repo</id>
+            <name>tombensve-artifact-repository</name>
             <url>https://download.natusoft.se/maven</url>
         </repository>
     </repositories>
 
     <pluginRepositories>
         <pluginRepository>
-            <id>ns-plugin-repo</id>
-            <name>na-plugin-repository</name>
+            <id>tombensve-plugin-repo</id>
+            <name>tombensve-plugin-repository</name>
             <url>https://download.natusoft.se/maven</url>
         </pluginRepository>
     </pluginRepositories>
@@ -30,8 +30,7 @@ that releasing to maven central must be an easier process. I got only one
 answer, and that was from JFrog asking if I had seen bintray. I had not,
 and took a look. I became a user immediately. JFrog understood how easy
 this process really should be!! I have no idea why they shut down the
-bintray service, it was one of the best I've ever used! Maybe they did
-not get enough commercial customers.
+bintray service, it was one of the best I've ever used! 
 
 Submitting to maven central have (from googling) become a little bit
 easier, but after reading up on the whole procedure I conclude that 
