@@ -42,3 +42,6 @@ repo with bintrays simplicity is really needed. I think that maven is
 an absolutely brilliant piece of software! But Sonatype need to 
 rethink their handling of maven central.
 
+It is also possible to checkout my repo and build it with `mvn install`. After that there will be binareis
+in your ~/.m2/ folder. 
+
