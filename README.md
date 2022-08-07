@@ -6,7 +6,7 @@ It is so far only Java, Groovy and some JS here. I have decided to use Groovy
 as much as possible, because it is a superb language and completely compatible 
 with Java! You can write better code in Groovy than with Java, and Groovy have 
 always had features that Java didn't get until 1.8, and Groovy still does it 
-better! The people behind Groovy know what they are doinng! 
+better! The people behind Groovy know what they are doing! 
 
 Some project produce binary jar files that I have decided to make available
 on my web server after bintray shut down: `https://download.natusoft.se/maven`.
