@@ -13,9 +13,8 @@ comprehending the SUN Unix machines since it felt very much like OS9.
 I wrote C code at the beginning, but became a consultant later and happend to be in a project using Java 1.0.
 Be glad if you missd that! But Java has gotten better and better over time. I am not in agreement with Oracles
 descicion to skip backwards compatibility from 12 and upp! I think that was stupid! So far no place I've been
-as a consultant have gone past Java 11! Java 12 is the first release that breaks compatibility. That says
-something IMHO. Java 6 was seen as a very good release. That is because it took 5 or 6 years until Java 7.
-That provided stability! 
+as a consultant have gone past Java 11! That says something IMHO. Java 6 was seen as a very good release. That 
+is because it took 5 or 6 years until Java 7. That provided stability! 
 
 My GitHub repos are partly for need, but mostly a place were I'm having fun!
 
