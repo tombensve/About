@@ -11,24 +11,14 @@ I  moved back to Sweden when I was 21. Eventually starting my career at Ericsson
 comprehending the SUN Unix machines since it felt very much like OS9. 
 
 I wrote C code at the beginning, but became a consultant later and happend to be in a project using Java 1.0.
-Be glad if you missd that! But Java has gotten better and better over time. I am not in agreement with Oracles
+Be glad if you missd that! But Java has gotten better and better over time. I am however not in agreement with Oracles
 descicion to skip backwards compatibility from 12 and upp! I think that was stupid! So far no place I've been
 as a consultant have gone past Java 11! That says something IMHO. Java 6 was seen as a very good release. That 
 is because it took 5 or 6 years until Java 7. That provided stability! 
 
-My GitHub repos are partly for need, but mostly a place were I'm having fun and stimulating my brain.
+## My GitHub repos
 
-----
-
-My father, sister and brother was on me about my bad short term memory, so I brought that upp with my
-local health care and it resulted in a diagnosis of memory impairment and 2 markers for Alzheimers, and part
-of my brain missing (short term memory). So I'm now 100% on sick leave, and have worked my last day.
-Alzheimers is my final destination! 
-
-That said, I will continue working on my open source projects at GitHub for as long as I'm capable of doing so. It
-helps stimulate my brain which is a good thing. I need to do this.
-
-----
+Are partly for need, but mostly a place were I'm having fun and stimulating my brain.
 
 It is so far only Java, Groovy and some JS here. I have decided to use Groovy
 as much as possible, because it is a superb language and completely compatible 
@@ -36,7 +26,7 @@ with Java! You can write better code in Groovy than with Java, and Groovy have
 always had features that Java didn't get until 1.8, and Groovy still does it 
 better! The people behind Groovy know what they are doing! 
 
-# Binaries
+## Binaries
 
 Some project produce binary jar files that I have decided to make available
 on my web server after bintray shut down: `https://download.natusoft.se/maven`.
@@ -58,7 +48,7 @@ This URL can be specified as a repo in maven pom.xml:
         </pluginRepository>
     </pluginRepositories>    
 
-# Why not maven central ? 
+## Why not maven central ? 
 
 Well, I did that once and that was an absolutely
 horrible process to go through! I sent a mail to maven users list saying
@@ -80,4 +70,6 @@ rethink their handling of maven central.
 
 It is also possible to checkout my repo and build it with `mvn install`. After that there will be binareis
 in your ~/.m2/ folder. 
+
+
 
