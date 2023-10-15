@@ -16,7 +16,19 @@ descicion to skip backwards compatibility from 12 and upp! I think that was stup
 as a consultant have gone past Java 11! That says something IMHO. Java 6 was seen as a very good release. That 
 is because it took 5 or 6 years until Java 7. That provided stability! 
 
-My GitHub repos are partly for need, but mostly a place were I'm having fun!
+My GitHub repos are partly for need, but mostly a place were I'm having fun and stimulating my brain.
+
+----
+
+My father, sister and brother was on me about my bad short term memory, so I brought that upp with my
+local health care and it resulted in a diagnosis of memory impairment and 2 markers for Alzheimers, and part
+of my brain missing (short term memory). So I'm now 100% on sick leave, and have worked my last day.
+Alzheimers is my final destination! 
+
+That said, I will continue working on my open source projects at GitHub for as long as I'm capable of doing so. It
+helps stimulate my brain which is a good thing. I'm not coding at the same speed I used to however. 
+
+----
 
 It is so far only Java, Groovy and some JS here. I have decided to use Groovy
 as much as possible, because it is a superb language and completely compatible 
