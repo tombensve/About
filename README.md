@@ -1,4 +1,4 @@
-# Me
+# Tommy Bengt Svensson
 
 I'm a software developer that wrote my first code on a [Sinclair ZX-80 machine](https://en.wikipedia.org/wiki/ZX80)
 when I was 12. When I was 13 I got the ZX81, which also could display information on the screen at the same time as
