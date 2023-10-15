@@ -26,7 +26,7 @@ of my brain missing (short term memory). So I'm now 100% on sick leave, and have
 Alzheimers is my final destination! 
 
 That said, I will continue working on my open source projects at GitHub for as long as I'm capable of doing so. It
-helps stimulate my brain which is a good thing. 
+helps stimulate my brain which is a good thing. I need to do this.
 
 ----
 
