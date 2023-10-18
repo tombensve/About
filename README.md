@@ -2,7 +2,7 @@
 
 I'm a software developer that wrote my first code on a [Sinclair ZX-80 machine](https://en.wikipedia.org/wiki/ZX80)
 when I was 12. When I was 13 I got the ZX81, which also could display information on the screen at the same time as
-processing! :-). At 14 my family moved from Stockholm, Sweden to Seattle, USA. There I got a TRS-80 Color Computer made
+processing! :-). At 14 my family moved from Stockholm, Sweden to Seattle, USA. There I got a [TRS-80 Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) made
 by Tandy. It had a total of 8 colors! It also had a Motorola 6809 processor and could thereby run the OS9 fully
 multitasking operating system, very much inspired by unix. Its C compiler even used the unix names for system calls
 so that much unix code could be compiled on it. 
