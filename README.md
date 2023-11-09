@@ -14,7 +14,7 @@ I wrote C code at the beginning, but became a consultant later and happend to be
 Be glad if you missd that! But Java has gotten better and better over time. I am however not in agreement with Oracles
 descicion to skip backwards compatibility from 12 and upp! I think that was stupid! So far no place I've been
 as a consultant have gone past Java 11! That says something IMHO. Java 6 was seen as a very good release. That 
-is because it took 5 or 6 years until Java 7. That provided stability! 
+is because it took 4 or 5 years until Java 7. That provided stability! 
 
 ## My GitHub repos
 
