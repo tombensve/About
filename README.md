@@ -16,6 +16,13 @@ descicion to skip backwards compatibility from 12 and upp! I think that was stup
 as a consultant have gone past Java 11! That says something IMHO. Java 6 was seen as a very good release. That 
 is because it took 4 or 5 years until Java 7. That provided stability! 
 
+### Current status
+
+I'm now on 100% sick leave until retirement, I'm walking on the road to Alzheimers. This means that have more
+time with my GitHub projects, but also that I'm slower. My short term memory really sucks. But I will keep
+on coding here for as long as I can. My doctor encourage me to continue this. This does not mean that I 
+will lower my own requirements!
+
 ## My GitHub repos
 
 Are partly for need, but mostly a place were I'm having fun and stimulating my brain.
