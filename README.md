@@ -8,7 +8,8 @@ multitasking operating system, very much inspired by unix, and this on a machine
 C compiler even used the unix names for system calls so that much unix code could be compiled on it. 
 
 I  moved back to Sweden when I was 21. Eventually starting my career at Ericsson, where I had no problems
-comprehending the SUN Unix machines since it felt very much like OS9. 
+comprehending the SUN Unix machines since it felt very much like OS9. My college did not have unix machines
+at that time, only a "Mainframe", don't remember brand, with terminals which you had to use for excercises.
 
 I wrote C code at the beginning, but became a consultant later and happend to be in a project using Java 1.0.
 Be glad if you missd that! But Java has gotten better and better over time. I am however not in agreement with Oracles
@@ -18,10 +19,10 @@ is because it took 4 or 5 years until Java 7. That provided stability!
 
 ### Current status
 
-I'm now on 100% sick leave until retirement, I'm walking on the road to Alzheimers. This means that have more
+I'm now on 100% sick leave until retirement, I'm walking on the road to Alzheimers. This means that I have more
 time with my GitHub projects, but also that I'm slower. My short term memory really sucks. But I will keep
 on coding here for as long as I can. My doctor encourage me to continue this. This does not mean that I 
-will lower my own requirements!
+will lower my own requirements, but it will take longer to implement them.
 
 ## My GitHub repos
 
@@ -68,9 +69,8 @@ bintray service, it was one of the best I've ever used!
 Submitting to maven central have (from googling) become a little bit
 easier, but after reading up on the whole procedure I conclude that 
 it is still a far too complicated process. My GitHub code is mostly 
-for fun and it need to continue to be that. I don't want to feel a 
-knot in my stomach when I need to release a new version. So thereby 
-I publish binaries on my web that maven can use as a repo. A new free 
+for fun and it need to continue to be that. So thereby I publish 
+binaries on my web that maven can use as a repo. A new free 
 repo with bintrays simplicity is really needed. I think that maven is 
 an absolutely brilliant piece of software! But Sonatype need to 
 rethink their handling of maven central.
