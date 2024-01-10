@@ -41,19 +41,26 @@ This URL can be specified as a repo in maven pom.xml:
 
     <repositories>
         <repository>
-            <id>tombensve-repo</id>
-            <name>tombensve-artifact-repository</name>
-            <url>https://download.natusoft.se/maven</url>
+            <id>repsy</id>
+            <name>My Private Maven Repository on Repsy</name>
+            <url>https://repo.repsy.io/mvn/tombensve/natusoft-os</url>
         </repository>
     </repositories>
 
     <pluginRepositories>
         <pluginRepository>
-            <id>tombensve-plugin-repo</id>
-            <name>tombensve-plugin-repository</name>
-            <url>https://download.natusoft.se/maven</url>
+            <id>repsy</id>
+            <name>repsy</name>
+            <url>https://repo.repsy.io/mvn/tombensve/natusoft-os</url>
         </pluginRepository>
     </pluginRepositories>    
+
+**[Repsy.io](https://repsy.io/)** is a repository service with free accunts for open source. Very easy to setup!
+This is where I will from now on push my releases of Java/Groovy projects on 
+GitHub. Before I used a web-server on my private web account, which will be shutdown when
+my dementia gets so bad that I can no longert do this. I'm on the road to Alzheimers.
+
+----
 
 ## Why not maven central ? 
 
