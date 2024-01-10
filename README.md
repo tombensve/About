@@ -35,9 +35,11 @@ better! The people behind Groovy know what they are doing!
 
 ## Binaries
 
-Some project produce binary jar files that I have decided to make available
-on my web server after bintray shut down: `https://download.natusoft.se/maven`.
-This URL can be specified as a repo in maven pom.xml:
+My binaries are now made available on [Repsy.io](https://repsy.io/), which is as easy
+as Bintray was to setup and use. JFrog did offer free Artifactory instances for open source
+code after they shut down bintray. I got such an account and tried to set it up, but
+finally gave upp. Far too incomprehensible! I have been publishing binaries on my private web
+server, but a repo like Repsy is by far better.
 
     <repositories>
         <repository>
@@ -54,11 +56,6 @@ This URL can be specified as a repo in maven pom.xml:
             <url>https://repo.repsy.io/mvn/tombensve/natusoft-os</url>
         </pluginRepository>
     </pluginRepositories>    
-
-**[Repsy.io](https://repsy.io/)** is a repository service with free accunts for open source. Very easy to setup!
-This is where I will from now on push my releases of Java/Groovy projects on 
-GitHub. Before I used a web-server on my private web account, which will be shutdown when
-my dementia gets so bad that I can no longert do this.
 
 ----
 
