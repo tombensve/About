@@ -44,7 +44,7 @@ server, but a repo like Repsy is by far better.
     <repositories>
         <repository>
             <id>repsy</id>
-            <name>My Private Maven Repository on Repsy</name>
+            <name>tombensve's public Maven Repository on Repsy</name>
             <url>https://repo.repsy.io/mvn/tombensve/natusoft-os</url>
         </repository>
     </repositories>
@@ -52,7 +52,7 @@ server, but a repo like Repsy is by far better.
     <pluginRepositories>
         <pluginRepository>
             <id>repsy</id>
-            <name>repsy</name>
+            <name>tombensves public plugin Maven repository on Repsy</name>
             <url>https://repo.repsy.io/mvn/tombensve/natusoft-os</url>
         </pluginRepository>
     </pluginRepositories>    
