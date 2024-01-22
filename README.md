@@ -74,11 +74,11 @@ easier, but after reading up on the whole procedure I conclude that
 it is still a far too complicated process. My GitHub code is mostly 
 for fun and it need to continue to be that. 
 
-As seen above I'm now using a free account on Repsy to share my binaries.
-Its as easy as Bintray was.
+As seen above I'm now using a free account on [Repsy.io](https://repsy.io/) 
+to share my binaries. Its as easy as Bintray was.
 
-It is also possible to checkout my repo and build it with `mvn install`. After that there will be binaries
-in your ~/.m2/ folder. 
+It is also possible to checkout my repo and build it with `mvn install`. 
+After that there will be binaries in your ~/.m2/ folder. 
 
 
 
