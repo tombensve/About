@@ -72,13 +72,12 @@ bintray service, it was one of the best I've ever used!
 Submitting to maven central have (from googling) become a little bit
 easier, but after reading up on the whole procedure I conclude that 
 it is still a far too complicated process. My GitHub code is mostly 
-for fun and it need to continue to be that. So thereby I publish 
-binaries on my web that maven can use as a repo. A new free 
-repo with bintrays simplicity is really needed. I think that maven is 
-an absolutely brilliant piece of software! But Sonatype need to 
-rethink their handling of maven central.
+for fun and it need to continue to be that. 
 
-It is also possible to checkout my repo and build it with `mvn install`. After that there will be binareis
+As seen above I'm now using a free account on Repsy to share my binaries.
+Its as easy as Bintray was.
+
+It is also possible to checkout my repo and build it with `mvn install`. After that there will be binaries
 in your ~/.m2/ folder. 
 
 
