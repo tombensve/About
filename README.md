@@ -78,7 +78,7 @@ As seen above I'm now using a free account on [Repsy.io](https://repsy.io/)
 to share my binaries. Its as easy as Bintray was.
 
 It is also possible to checkout my repo and build it with `mvn install`. 
-After that there will be binaries in your ~/.m2/ folder. 
+After that there will be binaries in your `~/.m2/` folder. 
 
 
 
