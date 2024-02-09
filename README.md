@@ -57,6 +57,8 @@ server, but a repo like Repsy is by far better.
         </pluginRepository>
     </pluginRepositories>    
 
+**Do note that my old webserver will stop working around April 2024!!**    
+
 ----
 
 ## Why not maven central ? 
