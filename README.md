@@ -12,8 +12,6 @@ I will mark some of my repos as "no longer maintained"!
 
 _CodeLicenseManager_ will be one of these!
 
-I will keep MarkdownDoc running as long as I can! 
-
 I will start new projects for myself to play with to try keep my brain gooing!
 
 I will try to keep MarkdownDoc running as long as I can. 
