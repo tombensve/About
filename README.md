@@ -6,7 +6,7 @@ Much of my code here on GitHub was done quite some time ago, some projects are n
 
 **I am 56 years old (at this moment) and have been diagnosed with early onset dementia! This means 
 that I have quite bad short term memory! Old stuff is still there! I no longer work, but I'm still 
-coding in my own pace here on Github, and will keep doing so until it is no loger possible!**
+coding in my own pace here on Github, and will continue until the compiler screams too much ...**
 
 I will mark some of my repos as "no longer maintained"! 
 
