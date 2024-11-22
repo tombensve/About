@@ -2,8 +2,6 @@
 
 # Demented Coder (:-)
 
-Much of my code here on GitHub was done quite some time ago, some projects are newer.
-
 _I have been diagnosed with early onset dementia! This means 
 that I have quite bad short term memory! Old stuff is still there! I no longer work, but I'm still 
 coding in my own pace here on Github, and will continue until the compiler screams too much at me!_
